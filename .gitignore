@@ -1,0 +1,4 @@
+readme.txt
+.editorconfig
+node_modules/*
+.idea/*
